@@ -3,5 +3,5 @@ Author: Curran Flanders
 
 Completion Date: 11/30/2022
 
-Description: Creates a linked list class that can accept values of any data type
+Description: Creates a linked list Java class that can accept values of any data type
  
